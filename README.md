@@ -1,1 +1,1 @@
-# case_spparcerias
+# Python - Power BI - Análise de Dados
